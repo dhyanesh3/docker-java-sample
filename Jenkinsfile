@@ -39,7 +39,7 @@ pipeline {
         
 //         stage('docker login') {
 //             steps {
-//                 	bat 'docker login -u gopiteekenam -p 48cc7b0c-36c1-4ee8-b762-053f950813b0'
+//                 	bat 'docker login -u dhyanes3 -p 48cc7b0c-36c1-4ee8-b762-053f950813b0'
 //             }
 //         }
         
